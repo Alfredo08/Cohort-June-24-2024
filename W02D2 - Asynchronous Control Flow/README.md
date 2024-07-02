@@ -1,5 +1,5 @@
 # D2 W02 | Asynchronous Control Flow
-[Github Repository]() | [Vimeo Video Recording]()
+[Github Repository](https://github.com/Alfredo08/Cohort-June-24-2024/tree/main/W02D2%20-%20Asynchronous%20Control%20Flow) | [Vimeo Video Recording]()
 
 ## Topics to cover
 
